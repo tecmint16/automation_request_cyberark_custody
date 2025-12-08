@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="120">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cyberark-logo-dark.svg/2560px-Cyberark-logo-dark.svg.png" width="300">
-  <img src="https://avatars.githubusercontent.com/u/131354555?v=4" width="120">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cyberark-logo-dark.svg/2560px-Cyberark-logo-dark.svg.png" width="350">
+  <img src="https://avatars.githubusercontent.com/u/131354555?v=4" width="100">
 </p>
 
 # Automation to Request CyberArk
