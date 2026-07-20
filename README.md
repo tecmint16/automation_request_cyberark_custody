@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cyberark-logo-dark.svg/2560px-Cyberark-logo-dark.svg.png" width="400">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cyberark-logo-dark.svg/2560px-Cyberark-logo-dark.svg.png](https://www.cyberark.com/wp-content/uploads/2024/10/cyberark-logo-tagline.svg)" width="400">
   <img src="https://avatars.githubusercontent.com/u/131354555?v=4" width="100">
 </p>
 
